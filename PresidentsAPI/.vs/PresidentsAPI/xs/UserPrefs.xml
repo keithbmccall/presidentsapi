@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{3E3C646E-B9F9-4C7E-8CFE-B840236DE5CA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PresidentsAPI/PresidentsAPI.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PresidentsAPI/Properties/PublishProfiles/PresidentsAPI - Web Deploy.pubxml">
     <Files>
-      <File FileName="PresidentsAPI/Models/PresidentsContext.cs" Line="1" Column="1" />
-      <File FileName="PresidentsAPI/Startup.cs" Line="24" Column="2" />
+      <File FileName="PresidentsAPI/Models/PresidentsContext.cs" Line="13" Column="2" />
+      <File FileName="PresidentsAPI/Startup.cs" Line="24" Column="6" />
       <File FileName="PresidentsAPI/PresidentsAPI.csproj" Line="1" Column="1" />
+      <File FileName="PresidentsAPI/Controllers/PresidentsController.cs" Line="12" Column="13" />
+      <File FileName="PresidentsAPI/Properties/PublishProfiles/PresidentsAPI - Web Deploy.pubxml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />

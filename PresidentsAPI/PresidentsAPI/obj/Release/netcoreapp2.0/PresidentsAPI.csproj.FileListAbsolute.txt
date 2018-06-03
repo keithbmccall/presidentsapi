@@ -19,3 +19,14 @@
 /Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/obj/Release/netcoreapp2.0/PresidentsAPI.AssemblyInfo.cs
 /Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/obj/Release/netcoreapp2.0/PresidentsAPI.dll
 /Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/obj/Release/netcoreapp2.0/PresidentsAPI.pdb
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/bin/Release/netcoreapp2.0/PresidentsAPI.deps.json
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/bin/Release/netcoreapp2.0/PresidentsAPI.runtimeconfig.json
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/bin/Release/netcoreapp2.0/PresidentsAPI.runtimeconfig.dev.json
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/bin/Release/netcoreapp2.0/PresidentsAPI.dll
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/bin/Release/netcoreapp2.0/PresidentsAPI.pdb
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/obj/Release/netcoreapp2.0/PresidentsAPI.csproj.CoreCompileInputs.cache
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/obj/Release/netcoreapp2.0/PresidentsAPI.AssemblyInfoInputs.cache
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/obj/Release/netcoreapp2.0/PresidentsAPI.AssemblyInfo.cs
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/obj/Release/netcoreapp2.0/PresidentsAPI.dll
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/obj/Release/netcoreapp2.0/PresidentsAPI.pdb
+/Users/keithmccall/Desktop/presidentsapi/PresidentsAPI/PresidentsAPI/obj/Release/netcoreapp2.0/PresidentsAPI.csprojResolveAssemblyReference.cache
