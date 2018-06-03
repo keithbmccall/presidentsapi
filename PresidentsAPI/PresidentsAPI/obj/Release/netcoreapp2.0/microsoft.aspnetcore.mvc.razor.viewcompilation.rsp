@@ -1,0 +1,12 @@
+/Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=PresidentsAPI
+--content-root=/Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI
+--file=/Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/Pages/About.cshtml
+--file=/Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/Pages/Contact.cshtml
+--file=/Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/Pages/Error.cshtml
+--file=/Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/Pages/Index.cshtml
+--file=/Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/Pages/_Layout.cshtml
+--file=/Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/Pages/_ValidationScriptsPartial.cshtml
+--file=/Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/Pages/_ViewImports.cshtml
+--file=/Users/keithmccall/Desktop/Dev/Presidents/PresidentsAPI/PresidentsAPI/Pages/_ViewStart.cshtml

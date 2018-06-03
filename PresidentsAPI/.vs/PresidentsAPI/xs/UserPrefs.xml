@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3E3C646E-B9F9-4C7E-8CFE-B840236DE5CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PresidentsAPI/PresidentsAPI.csproj">
+    <Files>
+      <File FileName="PresidentsAPI/Models/PresidentsContext.cs" Line="1" Column="1" />
+      <File FileName="PresidentsAPI/Startup.cs" Line="24" Column="2" />
+      <File FileName="PresidentsAPI/PresidentsAPI.csproj" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PresidentsAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
